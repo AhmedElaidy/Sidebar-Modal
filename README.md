@@ -1,6 +1,6 @@
 # The Main Text 
 <hr>
-Tours readme file
+SideBar readme file
 <hr>
 ## The languages that i used:
 <hr>
